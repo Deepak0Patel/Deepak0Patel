@@ -7,13 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/deepak855patel" target="blank"><img src="https://img.shields.io/twitter/follow/deepak855patel?logo=twitter&style=for-the-badge" alt="deepak855patel" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Project**
+- 🔭 I’m currently working on **Portfolio website**
 
 - 🌱 I’m currently learning **Graphql**
 
 - 💬 Ask me about **react , nextjs ,javaScript**
 
 - 📫 How to reach me **deepakpctebca2021@gmail.com**
+- 📫  Portfolio  **(https://deepakpatel.vercel.app/)**
 
 - ⚡ Fun fact **I think I am funny**
 
